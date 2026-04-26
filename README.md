@@ -1,1 +1,1 @@
-# odin-recipes
+This project will contain everything I learnt from HTML Basic in The Odin Project!
